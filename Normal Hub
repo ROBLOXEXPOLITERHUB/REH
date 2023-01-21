@@ -1,4 +1,4 @@
-local Library = loadstring(game:HttpGet(""))()
+local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/ROBLOXEXPOLITERHUB/REH/main/Normal%20Hub"))()
 
 local Window = Library.CreateLib("Roblox Exploiter's Hub", "BloodTheme")
 
