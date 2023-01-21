@@ -1,0 +1,29 @@
+local Library = loadstring(game:HttpGet(""))()
+
+local Window = Library.CreateLib("Roblox Exploiter's Hub", "BloodTheme")
+
+local Tab = Window:NewTab("Random Script's")
+
+local Section = Tab:NewSection("Script Here⇩")
+
+Section:NewButton("Fly Gui Modded", "You Wish To Fly?", function()
+
+loadstring(game: HttpGet('https://pastebin.com/raw/3UYg1qqb'))()
+
+end)
+
+local Tab = Window:NewTab("Doors Script's")
+
+local Section = Tab:NewSection("Script Here⇩")
+
+Section:NewButton("Doors Darkrai", "Use This For Doors.", function()
+
+loadstring(game: HttpGet('https://pastebin.com/raw/wm4eQSUQ'))()
+
+end)
+
+Section:NewButton("Gummy Flashlight", "Execute On Elevator Or You Don't Get The Item", function()
+
+loadstring(game:HttpGet("https://pastebin.com/raw/8SuP7zqE"))()
+
+end)
